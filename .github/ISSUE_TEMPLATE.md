@@ -1,11 +1,11 @@
-### 0dev products info
+### 0dev product info
 
 * Give those 3 info for quick response
+- [x] `type:-` ** software / theme **
+- [x] `product-code:-` ** product code **
+- [x] `customer-id:-` ** customer-id **
+- [x] `verified product + customer:-` ** yes / no **
 
-
-- [x] `type`:- ** software / theme **
-- [x] `product-code`:- ** product code **
-- [x] `customer-id`:- ** customer-id **
 
 ### Product issue details
 
