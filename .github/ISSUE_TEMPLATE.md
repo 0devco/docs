@@ -4,7 +4,6 @@
 - [x] `type:-` ** software / theme **
 - [x] `product-code:-` ** product code **
 - [x] `customer-id:-` ** customer-id **
-- [x] `verified product + customer:-` ** yes / no **
 
 
 ### Product issue details
