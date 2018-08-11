@@ -1,4 +1,4 @@
-### 0dev product info
+### 0dev.co product info
 
 * Give those 3 info for quick response
 - [x] `type:-` **software / theme**
